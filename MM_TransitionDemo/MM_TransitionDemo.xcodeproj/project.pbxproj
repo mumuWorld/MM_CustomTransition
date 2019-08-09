@@ -131,7 +131,6 @@
 				DFF6B9FF22FC0A1E008423C2 /* Common */,
 				DFF6B9F822FBF54C008423C2 /* present自定义 */,
 				DFF6B9F322FBF3F1008423C2 /* MMMainTableViewController.swift */,
-				DFF6B9F522FBF404008423C2 /* view */,
 				DFF6B9C522FBF340008423C2 /* AppDelegate.swift */,
 				DFF6B9C922FBF340008423C2 /* Main.storyboard */,
 				DFF6B9CC22FBF342008423C2 /* Assets.xcassets */,
@@ -157,13 +156,6 @@
 				DFF6B9E722FBF343008423C2 /* Info.plist */,
 			);
 			path = MM_TransitionDemoUITests;
-			sourceTree = "<group>";
-		};
-		DFF6B9F522FBF404008423C2 /* view */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = view;
 			sourceTree = "<group>";
 		};
 		DFF6B9F822FBF54C008423C2 /* present自定义 */ = {
